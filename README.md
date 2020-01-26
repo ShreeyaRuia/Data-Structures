@@ -35,7 +35,12 @@ To implement different operations on data structures and also study time complex
     > Using array
     * Quick sort with last pivot
     * Quick sort with first pivot
-7.  [Merge and Quick sort](merge.c "Click to redirect to c program"):
-    > Using array
-    * Quick sort with last pivot
-    * Quick sort with first pivot
+7.  [Merge two array](mergemergetwoarraysort.c "Click to redirect to c program"):
+    > arrange them in ascending order
+8.  [Stack using Queue and Queue using Stack](que.c "Click to redirect to c program"):
+    > using array
+9.  [search in linklist](searchinlinklist.c "Click to redirect to c program"):
+    > using structure
+10. [Sorting](sorting.c "Click to redirect to c program"):
+    > using array
+
