@@ -24,7 +24,7 @@ To implement different operations on data structures and also study time complex
     * counting internal nodes
     * hieght of tree
 3.  [Graph](graph.c "Click to redirect to c program"):
-    > Using linklist and Matrix
+    > Using linklist and 2Darray
     * depth for search
     * breadth for search
 4.  [Link List](link.c "Click to redirect to c program"):
@@ -43,4 +43,19 @@ To implement different operations on data structures and also study time complex
     > using structure
 10. [Sorting](sorting.c "Click to redirect to c program"):
     > using array
-
+    *   bubble sort
+    *   selection sort
+    *   insertion sort
+    *   shell sort
+    *   bucket sort
+11. [Stack,Circular queue and Queue](stackq.c "Click to redirect to c program"):
+    > using array
+12. [tree](tree.c "Click to redirect to c program") :
+    > Using linklist and array
+    * traveral in level order
+    * traversal in specific order -pre,post,in
+    * counting leaf nodes
+    * counting internal nodes
+    * hieght of tree
+ ---
+ ---
