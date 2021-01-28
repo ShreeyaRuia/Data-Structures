@@ -173,13 +173,13 @@ case 7:exit(0);
 
 void main()
 {
-int n,num;
+int n1,num;
 struct node *root= (struct node*)malloc(sizeof(struct node));
 do
 {
 printf(" Enter choice of creation : 1.LINK LIST 2.ARRAY 3.EXIT");
-scanf("%d",&n);
-switch(n)
+scanf("%d",&n1);
+switch(n1)
 {
 case 1: 
         root->left=NULL;
