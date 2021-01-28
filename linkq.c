@@ -184,14 +184,14 @@ int queue()
 
 void main()
 {
-int n,y,x;
+int n,y,x1;
 do
 {
 printf("Enter your choice \n 1.Stack using link list 2.Queue using link list");
 scanf("%d",&n);
 switch(n)
 {
-case 1:x=stack();
+case 1:x1=stack();
 break;
 case 2:y=queue();
 break;
