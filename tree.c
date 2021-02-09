@@ -177,7 +177,7 @@ int n,num;
 struct node *root= (struct node*)malloc(sizeof(struct node));
 do
 {
-printf(" !!!!!Enter choice of creation : ----1.LINK LIST 2.ARRAY 3.EXIT");
+printf("Enter choice of creation : ----1.LINK LIST 2.ARRAY 3.EXIT");
 scanf("%d",&n);
 switch(n)
 {
