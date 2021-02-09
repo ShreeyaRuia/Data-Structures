@@ -182,6 +182,7 @@ scanf("%d",&n);
 switch(n)
 {
 case 1: 
+	printf("in case 1");
         root->left=NULL;
         root->right=NULL;
         root->data=8;
